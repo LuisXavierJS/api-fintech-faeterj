@@ -33,5 +33,5 @@ dependencies {
 }
 
 bootRepackage {
-   mainClass("api-fintech-faeterj/src/application/Main")
+   mainClass("/src/application/Main")
 }
