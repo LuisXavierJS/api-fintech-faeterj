@@ -33,5 +33,5 @@ dependencies {
 }
 
 bootRepackage {
-   mainClass("/src/application/Main")
+   mainClass("src/application/Main")
 }
