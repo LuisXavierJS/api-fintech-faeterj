@@ -33,5 +33,5 @@ dependencies {
 }
 
 bootRepackage {
-   mainClass = 'Java Resources/src/application.Main'
+   mainClass("application.Main")
 }
